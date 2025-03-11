@@ -1,0 +1,19 @@
+Xác định Chủ Đề: Chọn lĩnh vực bạn muốn dự đoán, chẳng hạn như công nghệ, môi trường, xã hội, hoặc kinh tế.
+
+Thu Thập Dữ Liệu: Tập hợp dữ liệu từ các nguồn uy tín như báo cáo nghiên cứu, thống kê từ các tổ chức chuyên ngành, và các bài viết về xu hướng hiện tại.
+
+Sử Dụng AI Phân Tích Dữ Liệu: Sử dụng công cụ AI để phân tích dữ liệu lịch sử và hiện tại. Các thuật toán machine learning có thể giúp bạn dự đoán xu hướng và mô hình trong tương lai dựa trên dữ liệu đã có.
+
+Tạo Kịch Bản Video: Viết kịch bản cho video dựa trên các dự đoán và phát hiện từ phân tích của bạn. Hãy chắc chắn bao gồm lý do cho các dự đoán và các tình huống khả thi.
+
+Sử Dụng Công Cụ Tạo Video: Sử dụng phần mềm hoặc nền tảng tạo video (chẳng hạn như Adobe Premiere Pro, Animaker, hoặc Vyond) để biến kịch bản thành hình ảnh động.
+
+Sử Dụng AI Để Tạo Hình Ảnh: Có thể kết hợp AI như DALL-E hoặc Midjourney để tạo ra hình ảnh minh họa tương lai mà bạn dự đoán.
+
+Lồng Ghép Âm Nhạc và Lời Kể: Chọn nhạc nền phù hợp và lồng ghép giọng nói hoặc lời kể, có thể sử dụng AI Viết Lời (như Google Text-to-Speech) để tạo giọng nói tự nhiên.
+
+Chỉnh Sửa và Tối Ưu Video: Kiểm tra lại video, chỉnh sửa các phần không cần thiết, và chắc chắn rằng thông điệp được truyền tải rõ ràng.
+
+Chia Sẻ và Quảng Bá Video: Đăng tải video lên các nền tảng như YouTube, TikTok, hoặc Instagram. Sử dụng các chiến lược marketing để quảng bá video đến với nhiều người xem.
+
+Nhận Phản Hồi và Cải Thiện: Sau khi video được phát hành, theo dõi phản hồi từ người xem để cải tiến cho các video dự đoán tương lai tiếp theo.
